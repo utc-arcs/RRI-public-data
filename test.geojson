@@ -2,7 +2,7 @@
 	"type": "Feature",
 	"properties": {
 		"name": "University of Tennessee at Chattanooga",
-		"address", "615 McCallie Ave",
+		"address": "615 McCallie Ave",
 		"city": "Chattanooga",
 		"state": "Tennessee",
 		"popupContent": "We do really cool stuff with geography and computers."
@@ -11,5 +11,4 @@
 		"type": "Point",
 		"coordinates": [-85.29885, 35.044974]
 	}
-
 }
